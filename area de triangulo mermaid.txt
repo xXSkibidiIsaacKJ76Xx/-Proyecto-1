@@ -1,0 +1,7 @@
+flowchart TD
+    A((Inicio)) -->B[Definir base, altura, area]
+    B-->C[/Escribe la base del triángulo/]
+    C-->D[/Escribe la altura del triángulo/]
+    D-->E[area = base*altura/2]
+    E-->F["Tu area es..."]
+    F-->G((Fin))

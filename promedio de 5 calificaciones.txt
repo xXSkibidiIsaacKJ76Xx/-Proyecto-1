@@ -1,0 +1,39 @@
+función resultado = calcular (cal1, cal2, cal3, cal4, cal5)
+
+resultado = cal1 + cal2 + cal3+ cal4 + cal5
+resultado = resultado/5
+
+fin función
+
+Algoritmo Ejercicio3
+	
+	//Calcular el promedio de 5
+	//calificaciones.
+	
+	Definir cal2, cal3, cal4, cal5, total Como real
+	
+	
+Escribir "Calculador de promedios"
+Escribir " "
+
+Escribir "Escribe la primera calificación"
+Leer cal1
+
+Escribir "Escribe la segunda calificación"
+Leer cal2
+
+Escribir "Escribe la tercera calificación"
+Leer cal3
+
+Escribir "Escribe la cuarta calificación"
+Leer cal4
+
+Escribir "Escribe la quinta calificación"
+Leer cal5
+
+total = calcular(cal1, cal2, cal3, cal4, cal5)
+
+Escribir "El promedio de las cinco calificaciones es: ", total
+
+
+Fin algoritmo

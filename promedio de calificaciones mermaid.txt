@@ -1,0 +1,18 @@
+flowchart TD
+
+    subgraph Función: calcular
+    
+    A(("resultado(cal1, cal2, cal3, cal4, cal5)"))
+
+    A-->B[resultado = cal1 + cal2 + cal3 + cal4 + cal5 /5]
+
+    end
+
+    C((Inicio))-->D[/Escribe la primera calificacion/]
+    D-->E[/Escribe la segunda calificacion/]
+    E-->F[/Escribe la tercera calificacion/]
+    F-->G[/Escribe la cuarta calificacion/]
+    G-->H[/Escribe la quinta calificacion/]
+    H-->I["total = calcular(cal1, cal2, cal3, cal4, cal5)"]
+    I-->J["Tu promedio de calificaciones es..."]
+    J-->K((Fin))

@@ -1,0 +1,6 @@
+flowchart TD
+    A((Inicio)) -->B[Definir celsius, fahrenheit como real]
+    B-->C[/Ingresa los grados celsius/]
+    C-->D["fahrenheit = (celsius * 9/5) + 32"]
+    D-->E["Tus grados fahrenheit son..."]
+    E-->F((Fin))

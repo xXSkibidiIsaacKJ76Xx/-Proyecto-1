@@ -1,0 +1,21 @@
+Algoritmo Ejercicio2
+
+//Convertir grados Celsius a
+//Fahrenheit (F = C × 9/5 + 32).
+
+	Definir celsius Como Real
+	Definir fahrenheit Como Real
+	
+	
+	Escribir "Convertidor de grados Celsius a Fahrenheit"
+	Escribir " "
+	
+	Escribir "Ingrese los grados Celsius"
+	Leer celsius
+	
+	fahrenheit = celsius * 9/5 + 32
+	
+	Escribir "Tus grados Fahrenheit son: ", fahrenheit	
+
+
+Fin algoritmo

@@ -1,0 +1,24 @@
+Algoritmo Ejercicio1
+
+	//Instrucciones: Calcular el área de un triángulo
+	//(base × altura / 2).
+ 
+	
+	Definir base Como Entero
+	Definir altura Como Entero
+	Definir area Como Entero
+	
+	Escribir "Buscador de áreas de triángulo"
+	
+	Escribir "Escribe la base del triángulo"
+	Leer base
+	
+	Escribir "Escribe la altura del triángulo"
+	Leer altura 
+
+	area = base * altura /2
+	
+	Escribir "El área del triángulo es ", area
+	
+
+Fin algoritmo
