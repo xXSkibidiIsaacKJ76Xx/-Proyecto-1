@@ -30,4 +30,4 @@ promts usados:
 
 3.- "Cuál es el promedio de 5 calificaciones con valor de 3?"
 
-Link del video: 
+Link del video: https://youtu.be/LvZFcPMpIJc
