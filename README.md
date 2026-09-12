@@ -1,7 +1,9 @@
 # -Proyecto-1
 
 Nombre del alumno: Isaac Gonzalez Cazares
+
 Número de control: 26491025
+
 Fecha: 11/09/26
 
 
